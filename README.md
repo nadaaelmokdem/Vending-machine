@@ -1,4 +1,4 @@
-# Untitled
+# Vending Machine 
 
 ```markdown
 # Vending Machine - State Transition Testing
@@ -145,8 +145,7 @@ Mapped requirements to test conditions and cases. Ensures full coverage and alig
 
 ## 👨‍💻 Contributors
 
-- QA_Team_NADA
-- (Malak Mosaad,Heba Amer, Youmna Hesham)
+- (Nada Elmokdem, Malak Mosaad,Heba Amer, Youmna Hesham)
 
 ---
 
